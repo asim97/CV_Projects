@@ -1,0 +1,15 @@
+//add offset to temp from sitting menu direct 
+last error code in setting_sbmenu
+last error counter in setting_sbmenu + rest option
+
+//add submenu for nagtive or postive or back when select offset
+//add submenu offset_temp
+add submenu warning 
+
+if (!door sensor) warning + puse program timer + slave clear
+if (pressure sensor) warning + puse heat + delay +counter
+
+test esp ennable pin in sperate code
+buzzer ?????
+
+//(faild)change pcf8574 to shift 74595 (lib ShiftRegister74HC595) and two cd4021 (search Arduino website)
