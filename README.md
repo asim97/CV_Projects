@@ -1,8 +1,8 @@
 WARNINIG:
--this resp contains parts from bigger projects.
--this resp contains *only* embededd related projects, more projects are NOT included.
--*MOST* of libiries used in Skatchs are either modfied or originaly-writen to serve its pourpose in thier APP.
--no warranty grunted,use any parts of the code at your OWN risk.
+- this resp contains parts from bigger projects.
+- this resp contains *only* embededd related projects, more projects are NOT included.
+- *MOST* of libiries used in Skatchs are either modfied or originaly-writen to serve its pourpose in thier APP.
+- no warranty grunted,use any parts of the code at your OWN risk.
 
 
 
